@@ -16,3 +16,13 @@ The databases were extracted from the course and it took less than 5 minutes of 
 
 The acess link is: [Alura Pets](https://app.powerbi.com/view?r=eyJrIjoiZWVhYjY3ZmUtMTEwNS00MWYwLTg2NzMtOGUxOTc4NDE2OGZkIiwidCI6ImNkNWMyODBkLTdiZTgtNDRiMi05YjU3LTkxNzg4YWVkYmQzNSJ9)
 
+<h2><span> Sales Analysis </span></h2>
+
+
+In this example, I developed a dashboard to analyze the sales of an engine company.
+This company sells engines for cars, trains, planes and others and also sells engines for toys.
+
+The databases wrtr extracted from internet and it took less than 15 minutes to be ready for use. 
+
+
+The acess link is: [Alura Pets](https://app.powerbi.com/view?r=eyJrIjoiNmI4ODEzMmUtMGZlZS00MTNjLWE5MTAtZjljNGU4YjhiNjAzIiwidCI6ImNkNWMyODBkLTdiZTgtNDRiMi05YjU3LTkxNzg4YWVkYmQzNSJ9)
