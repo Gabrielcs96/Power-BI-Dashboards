@@ -22,6 +22,11 @@ The acess link is: [Alura Pets](https://app.powerbi.com/view?r=eyJrIjoiZWVhYjY3Z
 In this example, I developed a dashboard to analyze the sales of an engine company.
 This company sells engines for cars, trains, planes and others and also sells engines for toys.
 
+
+<div align="center">
+<img src="![POWER BI - CASE DE ANÁLISE DE FÁBRICA DE MOTORES](https://user-images.githubusercontent.com/77907781/182263466-1eacfc3e-e589-4431-b57c-7949c6435fde.png)/>
+</div>
+
 The databases wrtr extracted from internet and it took less than 15 minutes to be ready for use. 
 
 
