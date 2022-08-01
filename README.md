@@ -24,8 +24,9 @@ This company sells engines for cars, trains, planes and others and also sells en
 
 
 <div align="center">
-<img src="![POWER BI - CASE DE ANÁLISE DE FÁBRICA DE MOTORES](https://user-images.githubusercontent.com/77907781/182263466-1eacfc3e-e589-4431-b57c-7949c6435fde.png)/>
+  <img src="![POWER BI - CASE DE ANÁLISE DE FÁBRICA DE MOTORES](https://user-images.githubusercontent.com/77907781/182263466-1eacfc3e-e589-4431-b57c-7949c6435fde.png)" width="700px" />
 </div>
+
 
 The databases wrtr extracted from internet and it took less than 15 minutes to be ready for use. 
 
