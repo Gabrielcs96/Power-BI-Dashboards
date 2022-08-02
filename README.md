@@ -20,7 +20,7 @@ The acess link is: [Alura Pets](https://app.powerbi.com/view?r=eyJrIjoiZWVhYjY3Z
 
 
 In this example, I developed a dashboard to analyze the sales of an engine company.
-This company sells engines for cars, trains, planes and others and also sells engines for toys.
+This company sells engines for cars, trains, planes and others vehicles and also sells engines for toys.
 
 
 <div align="center">
